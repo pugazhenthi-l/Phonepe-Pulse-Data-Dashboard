@@ -1,6 +1,6 @@
 # PhonePe Data Visualization and Exploration
 
-Overview
+## Overview
 The PhonePe Pulse Data Dashboard is an advanced, interactive visualization platform designed to analyze and display transaction data from PhonePe, one of the leading digital payment systems in India. This dashboard leverages the power of Python, MySQL, and Streamlit to present a user-friendly interface that delivers deep insights into transaction patterns, user growth metrics, and geographical payment trends across India.
 
 Developed with the goal of enhancing data-driven decision-making, this tool is invaluable for business analysts, marketing teams, and decision-makers seeking to understand the dynamics of digital payments in the expansive Indian market.
