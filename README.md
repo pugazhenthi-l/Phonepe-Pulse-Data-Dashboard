@@ -60,7 +60,7 @@ Developed with the goal of enhancing data-driven decision-making, this tool is i
 Execute the following command to start the Streamlit dashboard:
    ```
     streamlit run dashboard.py
-    ```
+   ```
 Navigate to the displayed URL in your web browser to interact with the PhonePe Pulse Data Dashboard.
 
 ## Future Enhancements
