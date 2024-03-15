@@ -63,15 +63,3 @@ Execute the following command to start the Streamlit dashboard:
    ```
 Navigate to the displayed URL in your web browser to interact with the PhonePe Pulse Data Dashboard.
 
-## Future Enhancements
-
-- **UI/UX Improvements:** Continuous efforts to enhance the dashboard interface for an even more intuitive user experience.
-- **Cloud Integration:** Exploring cloud-based solutions for database hosting to improve accessibility and scalability.
-- **Advanced Analytics:** Incorporating machine learning models for predictive analysis and trend forecasting.
-
-## Acknowledgments
-
-- PhonePe for providing the dataset.
-- Streamlit for the interactive web app framework.
-- Plotly for the comprehensive data visualization library.
-
